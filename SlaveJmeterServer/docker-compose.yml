@@ -6,3 +6,6 @@ services:
                 tty: true
                 volumes:
                         - ./test:/root
+                ports:
+                        - "10990:1099"
+                        - "40000:4000"

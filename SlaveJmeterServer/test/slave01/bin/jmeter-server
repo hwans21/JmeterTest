@@ -1,5 +1,4 @@
 #!/bin/sh
-
 ##   Licensed to the Apache Software Foundation (ASF) under one or more
 ##   contributor license agreements.  See the NOTICE file distributed with
 ##   this work for additional information regarding copyright ownership.
@@ -28,5 +27,9 @@ DIRNAME=`dirname $0`
 
 # One way to fix this is to define RMI_HOST_DEF below
 #RMI_HOST_DEF=-Djava.rmi.server.hostname=xxx.xxx.xxx.xxx
+echo DIRNAME: $DIRNAME
+echo RMI_HOST_DEF: $RMI_HOST_DEF
+echo SERVER_PORT: $SERVER_PORT
+echo @: $@
 
 ${DIRNAME}/jmeter ${RMI_HOST_DEF} -Dserver_port=${SERVER_PORT:-1099} -s -j jmeter-server.log "$@"

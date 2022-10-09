@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
-|2,0,1665269629,,"wq"
 :q
-|2,0,1665269590,,"q"
+|2,0,1665336516,,"q"
+:wq
+|2,0,1665295863,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,20 +27,257 @@
 # Registers:
 
 # File marks:
-'0  1  16  ~/.bashrc
-|4,48,1,16,1665269629,"~/.bashrc"
-'1  1  0  ~/.bash_history
-|4,49,1,0,1665269590,"~/.bash_history"
+'0  1  0  ~/slave01/bin/jmeter-server.log
+|4,48,1,0,1665336516,"~/slave01/bin/jmeter-server.log"
+'1  1  0  ~/slave02/bin/jmeter.properties
+|4,49,1,0,1665333708,"~/slave02/bin/jmeter.properties"
+'2  1  8  ~/slave01/bin/jmeter-server
+|4,50,1,8,1665331054,"~/slave01/bin/jmeter-server"
+'3  1  8  ~/slave01/bin/jmeter-server
+|4,51,1,8,1665331052,"~/slave01/bin/jmeter-server"
+'4  1  9  ~/slave01/bin/jmeter-server
+|4,52,1,9,1665331045,"~/slave01/bin/jmeter-server"
+'5  1  9  ~/slave01/bin/jmeter-server
+|4,53,1,9,1665331045,"~/slave01/bin/jmeter-server"
+'6  2  9  ~/test.sh
+|4,54,2,9,1665295863,"~/test.sh"
+'7  32  26  ~/slave01/bin/jmeter-server
+|4,55,32,26,1665272641,"~/slave01/bin/jmeter-server"
+'8  32  26  ~/slave01/bin/jmeter-server
+|4,56,32,26,1665272641,"~/slave01/bin/jmeter-server"
+'9  32  26  ~/slave01/bin/jmeter-server
+|4,57,32,26,1665272641,"~/slave01/bin/jmeter-server"
 
 # Jumplist (newest first):
--'  1  16  ~/.bashrc
-|4,39,1,16,1665269629,"~/.bashrc"
--'  1  0  ~/.bash_history
-|4,39,1,0,1665269590,"~/.bash_history"
--'  1  0  ~/.bash_history
-|4,39,1,0,1665269590,"~/.bash_history"
+-'  1  0  ~/slave01/bin/jmeter-server.log
+|4,39,1,0,1665336516,"~/slave01/bin/jmeter-server.log"
+-'  1  0  ~/slave02/bin/jmeter.properties
+|4,39,1,0,1665333708,"~/slave02/bin/jmeter.properties"
+-'  1  0  ~/slave02/bin/jmeter.properties
+|4,39,1,0,1665333708,"~/slave02/bin/jmeter.properties"
+-'  1  8  ~/slave01/bin/jmeter-server
+|4,39,1,8,1665331054,"~/slave01/bin/jmeter-server"
+-'  1  8  ~/slave01/bin/jmeter-server
+|4,39,1,8,1665331054,"~/slave01/bin/jmeter-server"
+-'  1  8  ~/slave01/bin/jmeter-server
+|4,39,1,8,1665331054,"~/slave01/bin/jmeter-server"
+-'  1  8  ~/slave01/bin/jmeter-server
+|4,39,1,8,1665331054,"~/slave01/bin/jmeter-server"
+-'  1  8  ~/slave01/bin/jmeter-server
+|4,39,1,8,1665331052,"~/slave01/bin/jmeter-server"
+-'  1  8  ~/slave01/bin/jmeter-server
+|4,39,1,8,1665331052,"~/slave01/bin/jmeter-server"
+-'  1  8  ~/slave01/bin/jmeter-server
+|4,39,1,8,1665331052,"~/slave01/bin/jmeter-server"
+-'  1  8  ~/slave01/bin/jmeter-server
+|4,39,1,8,1665331052,"~/slave01/bin/jmeter-server"
+-'  1  9  ~/slave01/bin/jmeter-server
+|4,39,1,9,1665331045,"~/slave01/bin/jmeter-server"
+-'  1  9  ~/slave01/bin/jmeter-server
+|4,39,1,9,1665331045,"~/slave01/bin/jmeter-server"
+-'  1  9  ~/slave01/bin/jmeter-server
+|4,39,1,9,1665331045,"~/slave01/bin/jmeter-server"
+-'  1  9  ~/slave01/bin/jmeter-server
+|4,39,1,9,1665331045,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  32  20  ~/slave01/bin/jmeter-server
+|4,39,32,20,1665331019,"~/slave01/bin/jmeter-server"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  2  9  ~/test.sh
+|4,39,2,9,1665295863,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  1  0  ~/test.sh
+|4,39,1,0,1665295852,"~/test.sh"
+-'  32  26  ~/slave01/bin/jmeter-server
+|4,39,32,26,1665272641,"~/slave01/bin/jmeter-server"
+-'  32  26  ~/slave01/bin/jmeter-server
+|4,39,32,26,1665272641,"~/slave01/bin/jmeter-server"
+-'  32  26  ~/slave01/bin/jmeter-server
+|4,39,32,26,1665272641,"~/slave01/bin/jmeter-server"
+-'  32  26  ~/slave01/bin/jmeter-server
+|4,39,32,26,1665272641,"~/slave01/bin/jmeter-server"
+-'  32  26  ~/slave01/bin/jmeter-server
+|4,39,32,26,1665272641,"~/slave01/bin/jmeter-server"
+-'  32  26  ~/slave01/bin/jmeter-server
+|4,39,32,26,1665272641,"~/slave01/bin/jmeter-server"
+-'  32  26  ~/slave01/bin/jmeter-server
+|4,39,32,26,1665272641,"~/slave01/bin/jmeter-server"
+-'  32  26  ~/slave01/bin/jmeter-server
+|4,39,32,26,1665272641,"~/slave01/bin/jmeter-server"
+-'  1  0  ~/slave01/bin/jmeter-server
+|4,39,1,0,1665272623,"~/slave01/bin/jmeter-server"
 
 # History of marks within files (newest to oldest):
+
+> ~/slave01/bin/jmeter-server.log
+	*	1665336515	0
+	"	1	0
+
+> ~/slave02/bin/jmeter.properties
+	*	1665333705	0
+	"	1	0
+
+> ~/slave01/bin/jmeter-server
+	*	1665331053	0
+	"	1	8
+
+> ~/test.sh
+	*	1665295862	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
+
+> ~/slave-start.sh
+	*	1665271127	0
+	"	1	0
+
+> ~/slave01/bin/jmeter.properties
+	*	1665270285	0
+	"	269	0
 
 > ~/.bashrc
 	*	1665269628	0
