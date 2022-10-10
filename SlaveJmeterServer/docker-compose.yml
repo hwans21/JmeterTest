@@ -9,6 +9,7 @@ services:
     ports:
       - "1099:1099"
       - "50000:50000"
+      - "60000:60000"
     networks:
       - default
       - netcard-net
