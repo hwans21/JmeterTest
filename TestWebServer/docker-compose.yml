@@ -8,3 +8,11 @@ services:
          - 80:80
       volumes:
          - ./var/www/html:/usr/local/apache2/htdocs
+      networks:
+         - default
+         - netcard-net
+
+networks:
+   netcard-net:
+      external:
+         name: netcard

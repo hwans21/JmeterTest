@@ -1,11 +1,19 @@
 version: "3"
 services:
-        server1:
-                image: ubuntu:latest
-                stdin_open: true
-                tty: true
-                volumes:
-                        - ./test:/root
-                ports:
-                        - "10990:1099"
-                        - "40000:4000"
+  server1:
+    image: ubuntu:latest
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./test:/root
+    ports:
+      - "10990:1099"
+      - "40000:4000"
+    networks:
+      - default
+      - netcard-net
+
+networks:
+  netcard-net:
+    external:
+      name: netcard
