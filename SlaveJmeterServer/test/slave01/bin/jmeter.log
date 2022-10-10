@@ -1,0 +1,43 @@
+2022-10-10 19:46:42,772 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-10-10 19:46:42,791 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-10-10 19:46:42,791 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-10-10 19:46:42,796 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: Version 5.5
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: java.version=11.0.16.1
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: os.name=Windows 10
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: os.arch=amd64
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: os.version=10.0
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: file.encoding=MS949
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: java.awt.headless=null
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-10-10 19:46:42,797 INFO o.a.j.JMeter: Available Processors =16
+2022-10-10 19:46:42,804 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-10-10 19:46:42,804 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-10-10 19:46:42,804 INFO o.a.j.JMeter: JMeterHome=C:\Users\khs\code\hwans21\JmeterTest\SlaveJmeterServer\test\slave01
+2022-10-10 19:46:42,804 INFO o.a.j.JMeter: user.dir  =C:\Users\khs\code\hwans21\JmeterTest\SlaveJmeterServer\test\slave01\bin
+2022-10-10 19:46:42,804 INFO o.a.j.JMeter: PWD       =C:\Users\khs\code\hwans21\JmeterTest\SlaveJmeterServer\test\slave01\bin
+2022-10-10 19:46:42,805 INFO o.a.j.JMeter: IP: 192.168.128.1 Name: DESKTOP-ADPLN6T FullName: DESKTOP-ADPLN6T.mshome.net
+2022-10-10 19:46:42,822 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-10-10 19:46:42,997 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-10-10 19:46:50,727 INFO o.a.j.s.FileServer: Default base='C:\Users\khs\code\hwans21\JmeterTest\SlaveJmeterServer\test\slave01\bin'
+2022-10-10 19:46:50,729 INFO o.a.j.g.a.Load: Loading file: C:\Users\khs\code\hwans21\JmeterTest\configjmx\Thread Group.jmx
+2022-10-10 19:46:50,729 INFO o.a.j.s.FileServer: Set new base='C:\Users\khs\code\hwans21\JmeterTest\configjmx'
+2022-10-10 19:46:50,855 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-10-10 19:46:50,871 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-10-10 19:46:50,872 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-10-10 19:46:50,874 INFO o.a.j.s.SaveService: Loading file: C:\Users\khs\code\hwans21\JmeterTest\configjmx\Thread Group.jmx
+2022-10-10 19:46:50,895 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-10-10 19:46:50,895 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-10-10 19:46:50,895 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-10-10 19:46:50,895 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-10-10 19:46:50,895 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-10-10 19:46:50,895 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-10-10 19:46:51,011 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-10-10 19:46:51,011 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-10-10 19:46:51,011 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-10-10 19:46:51,011 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-10-10 19:46:51,149 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2022-10-10 19:46:51,230 INFO o.a.j.s.FileServer: Set new base='C:\Users\khs\code\hwans21\JmeterTest\configjmx'
+2022-10-10 19:46:53,310 INFO o.a.j.e.DistributedRunner: Configuring remote engine: 127.0.0.1
+2022-10-10 19:46:53,312 INFO o.a.j.r.RmiUtils: Disabling SSL for RMI as server.rmi.ssl.disable is set to 'true'
