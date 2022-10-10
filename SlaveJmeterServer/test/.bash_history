@@ -21,3 +21,22 @@ clear
 ./jmeter-server
 clear
 exit
+cd
+cd slave01
+ll
+cd bin
+ll
+./jmeter-server
+./jmeter-server & 
+ifconfig
+celar
+clear
+ps -ef | grep java
+kill 5849
+clear
+./jmeter-server &
+ps -ef | grep java
+kill 5963
+./jmeter-server -Dserver.rmi.localport=50000 -Dserver_port=1099
+exi
+exit

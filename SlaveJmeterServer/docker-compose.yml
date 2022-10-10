@@ -7,8 +7,8 @@ services:
     volumes:
       - ./test:/root
     ports:
-      - "10990:1099"
-      - "40000:4000"
+      - "1099:1099"
+      - "50000:50000"
     networks:
       - default
       - netcard-net
